@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 [![GitHub aroh](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![GitHub aroh](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 [![GitHub aroh](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Github aroh](https://img.shields.io/badge/Argo%20CD-173A60?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
+[![Github aroh](https://img.shields.io/badge/Argo%20CD-FF9900?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
 [![GitHub aroh](https://img.shields.io/badge/GitLab_CI%2FCD-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![GitHub aroh](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)](https://istio.io/)
 [![GitHub aroh](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
