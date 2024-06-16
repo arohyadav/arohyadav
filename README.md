@@ -31,11 +31,10 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 - **Security Testing & Compliance Tools**: Secret Scanning, SAST, SCA, DAST, SCC, Owasp Top 10
 -->
 ### Security Testing & Compliance
-[![GitHub aroh](https://img.shields.io/badge/Secret_Scanning-007bff?style=for-the-badge&logoColor=white)](#)
+[![GitHub aroh](https://img.shields.io/badge/Secret_Scan-007bff?style=for-the-badge&logoColor=white)](#)
 [![GitHub aroh](https://img.shields.io/badge/SAST-007bff?style=for-the-badge&logoColor=white)](#)
 [![GitHub aroh](https://img.shields.io/badge/SCA-007bff?style=for-the-badge&logoColor=white)](#)
 [![GitHub aroh](https://img.shields.io/badge/DAST-007bff?style=for-the-badge&logoColor=white)](#)
-[![GitHub aroh](https://img.shields.io/badge/SCC-007bff?style=for-the-badge&logoColor=white)](#)
 [![GitHub aroh](https://img.shields.io/badge/OWASP_Top_10-007bff?style=for-the-badge&logoColor=white)](#)
 
 #### Monitoring & Observability Tools
