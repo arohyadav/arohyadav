@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 [![GitHub aroh](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![GitHub aroh](https://img.shields.io/badge/Argo%20CD-FF6600?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
 [![GitHub aroh](https://img.shields.io/badge/GitLab_CI%2FCD-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![GitHub aroh](https://img.shields.io/badge/Hashicorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
+[![GitHub aroh](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
 
 ### 🏆 Certifications
 
