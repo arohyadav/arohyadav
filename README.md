@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. 
 <!--Here you'll find some of my projects, contributions, and open-source work.-->
 
+![](https://komarev.com/ghpvc/?username=arohyadav)
+
 ### Tech Stack
 [![GitHub aroh](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![GitHub aroh](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
