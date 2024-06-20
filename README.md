@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I have a background in cloud technologies, Devops tools & automation.
 
-# Max Verstappen
+### Max Verstappen
 "You always want to improve, you always want to get better, and that's where my focus is."
 "It's important to always push yourself to the limit and see where you can improve."
 
