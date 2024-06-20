@@ -1,6 +1,6 @@
 ### Hi there! I'm Aroh 👋
 
-Welcome to my GitHub profile! I have a background in cloud technologies, Devops tools & automation.
+I have a background in Cloud & Devops technologies.
 
 ##### Max Verstappen - "You always want to improve, you always want to get better, and that's where my focus is."
 <!--Here you'll find some of my projects, contributions, and open-source work. ![](https://komarev.com/ghpvc/?username=arohyadav) -->
