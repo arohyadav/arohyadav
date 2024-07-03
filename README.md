@@ -2,8 +2,9 @@
 
 I have a background in Cloud & Devops technologies.
 
-##### Max Verstappen - "You always want to improve, you always want to get better, and that's where my focus is."
-<!--Here you'll find some of my projects, contributions, and open-source work. ![](https://komarev.com/ghpvc/?username=arohyadav) -->
+
+<!--
+##### Max Verstappen - "You always want to improve, you always want to get better, and that's where my focus is."Here you'll find some of my projects, contributions, and open-source work. ![](https://komarev.com/ghpvc/?username=arohyadav) -->
 
 ### Tech Stack
 [![GitHub aroh](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
