@@ -19,13 +19,14 @@ I have a background in Cloud & Devops technologies.
 
 ### 🏆 Certifications
 
+- Certified Kubernetes Administrator (CKA)
 - AWS Certified Solutions Architect - Associate
 - HashiCorp Certified: Terraform Associate
 
 <!--  
 ### 🔧 Technologies and Tools
 
-- **Cloud**: AWS
+- **Cloud**: AWS, GCP, Azure
 - **Containerization**: Docker, Kubernetes
 - **Infrastructure as Code**: Terraform
 - **CI/CD**: GitLab CI/CD
