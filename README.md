@@ -45,48 +45,10 @@ I have a background in Cloud & Devops technologies.
 [![GitHub aroh](https://img.shields.io/badge/OWASP_Top_10-007bff?style=for-the-badge&logoColor=white)](#)
 
 #### Monitoring & Observability Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/></p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/></p>
 
-<!--
-### 🌱 I'm currently learning
-- 
-
-### 👯 I'm looking to collaborate on
-
-- Open-source projects related to DevOps, cloud-native technologies, and automation
-- Building scalable and highly available systems
--->
 ### 📫 How to reach me
 
 - https://www.linkedin.com/in/arohyadav/
 - arohyadav8@gmail.com
-
-<!-- 
-### 🎖️ Badges
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge) -->
-
-<!-- 
-### 📊 GitHub Stats -->
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
-
-Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh) -->
-
-<!--
-**arohyadav/arohyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
