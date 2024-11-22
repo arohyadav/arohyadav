@@ -1,4 +1,4 @@
-### Hi there! I'm Aroh 👋
+### Hi there! I'm Aroh Yadav 👋
 
 I have a background in Cloud & Devops technologies.
 
