@@ -2,7 +2,7 @@
 
 ### Tech Stack
 [![GitHub aroh](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GitHub aroh](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![GitHub aroh](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![GitHub aroh](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![GitHub aroh](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 [![GitHub aroh](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
@@ -10,7 +10,6 @@
 [![GitHub aroh](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![GitHub aroh](https://img.shields.io/badge/Argo%20CD-FF6600?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
 [![GitHub aroh](https://img.shields.io/badge/GitLab_CI%2FCD-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![GitHub aroh](https://img.shields.io/badge/Hashicorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
 
 ### 🏆 Certifications
 
