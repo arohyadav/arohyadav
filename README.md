@@ -14,6 +14,7 @@
 
 ### 🏆 Certifications
 
+- Google Cloud Professional Cloud DevOps Engineer
 - Certified Kubernetes Administrator (CKA)
 - AWS Certified Solutions Architect - Associate
 - HashiCorp Certified: Terraform Associate
