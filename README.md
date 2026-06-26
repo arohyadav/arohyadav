@@ -46,7 +46,6 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="32"/>
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="32"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="32"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="32"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="32"/>
 </p>
 
